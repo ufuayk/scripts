@@ -10,6 +10,8 @@ The scripts may not mean much on their own right now, but when combined, they fo
 | Nim  | NETCHECK                       |
 | Nim  | USERCHECK                      |
 | Nim  | TIMESYNCCHECK                  |
+| Ruby | PORTCHECK                      |
+| Ruby | MACCHECK                       |
 
 ---
 
